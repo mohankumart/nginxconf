@@ -1,0 +1,2 @@
+# nginxconf
+sudo nginx
